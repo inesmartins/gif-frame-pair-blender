@@ -7,4 +7,4 @@ Extracts all frames from a `GIF`, blends all possible frame pair combinations, a
 
 ### Example
 
-`python3 blender.py example.gif ./frames`
+`python3 blender.py example.gif ./output`
