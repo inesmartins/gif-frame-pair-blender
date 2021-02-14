@@ -1,5 +1,4 @@
-# gif-frame-pair-blender
-Gif Frame Pair Blender
+# Gif Frame Pair Blender
 
 ```
 python3 blender.py -h
