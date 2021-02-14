@@ -1,14 +1,11 @@
 # gif-frame-pair-blender
 Gif Frame Pair Blender
 
-Extracts all frames from a `GIF`, blends all possible frame pair combinations, and outputs result to specified output directory.
-
 ```
 python3 blender.py -h
 usage: blender.py [-h] -g FILE -o OUTPUT_DIR
 
-Extracts all frames from a GIF, blends all possible frame pair combinations,
-and outputs result to specified output directory.
+Extracts all frames from a GIF, blends all possible frame pair combinations, and outputs result to specified output directory.
 
 optional arguments:
   -h, --help            show this help message and exit
